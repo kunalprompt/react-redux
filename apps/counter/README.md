@@ -42,7 +42,9 @@ As seen above there is a single source of truth for data, so when the applicatio
 
 Extra installed packages -
 
-- `react-redux`
+- [redux] (https://www.npmjs.com/package/redux)
+
+- [react-redux] (https://www.npmjs.com/package/react-redux)
 
 - ``
 
